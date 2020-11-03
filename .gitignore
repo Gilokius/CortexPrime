@@ -1,0 +1,13 @@
+# IDE files
+.idea
+
+# Reference files
+node_modules
+foundry-0.6.6.js
+foundry.js
+
+# Generated files
+system/cortexprime.css.map
+.sass-cache
+dist
+.DS_Store
